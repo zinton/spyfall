@@ -1,0 +1,9 @@
+{
+    "discord":{
+        "token": "YOURTOKENKEYHERE!",
+        "trigger": "."
+    },
+    "other":{
+        "debug": false
+    }
+}
