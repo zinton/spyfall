@@ -1,7 +1,7 @@
 {
     "discord":{
         "token": "NjI5NjU3NjIwMzk1MDY1MzY0.XZc_eA.mKhUUNjqEi7JcpQmwJJre81tCEI",
-        "trigger": "."
+        "trigger": "!!"
     },
     "other":{
         "debug": false
